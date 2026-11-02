@@ -1,0 +1,17 @@
+ClinVar annotation settings
+===========================
+date: 2026-11-02
+source: NCBI E-utilities (https://eutils.ncbi.nlm.nih.gov/entrez/eutils)
+clinvar last update: 2026/11/01 16:09
+clinvar records: 4708791
+input variants: 50
+
+query:
+  esearch db=clinvar term='<chrom>[CHR] AND <pos>[CPOS]' (CPOS = GRCh38 position)
+  esummary db=clinvar id=<found ids>
+
+matching:
+  a record is accepted only if canonical SPDI equals <chrom>:<pos-1>:<REF>:<ALT>
+  other records at the same position (other alleles, indels, inversions)
+  are listed in other_records_at_position and are not used for the variant
+  classification = germline_classification (aggregate VCV level)

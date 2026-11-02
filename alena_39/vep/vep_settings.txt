@@ -1,0 +1,33 @@
+Ensembl VEP annotation settings
+===============================
+date: 2026-11-02
+endpoint: POST https://rest.ensembl.org/vep/homo_sapiens/region
+ensembl release: 116
+assembly: GRCh38.p14 (GCA_000001405.29)
+geneset update: 2025-11
+transcript set: Ensembl/GENCODE (all transcripts, no --pick filtering)
+input variants: 50
+
+parameters:
+  canonical = 1
+  mane = 1
+  hgvs = 1
+  numbers = 1
+  protein = 1
+  variant_class = 1
+  appris = 1
+  tsl = 1
+  ccds = 1
+  uniprot = 1
+  AlphaMissense = 1
+  REVEL = 1
+  CADD = 1
+  SpliceAI = 1
+  sift/polyphen = default (prediction + score)
+  colocated variants + allele frequencies = default
+
+annotation sources:
+  dbSNP: 156
+  dbSNP HGVS: 156
+  COSMIC: 102
+  ClinVar: 09/2025

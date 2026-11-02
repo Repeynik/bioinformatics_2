@@ -1,0 +1,51 @@
+id	chrom	pos	ref	alt	in_clinvar	variation_id	accession	title	classification	review_status	last_evaluated	conditions	molecular_consequence	other_records_at_position
+rs116645811	21	25587758	G	A	no	-	-	-	-	-	-	-	-	-
+rs1135638	21	25592836	G	A	no	-	-	-	-	-	-	-	-	-
+rs115683257	21	32650278	C	A	yes	544577	VCV000544577.38	NM_203446.3(SYNJ1):c.2943G>T (p.Met981Ile)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/01/28	not provided; not specified; Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20	missense variant	-
+rs17878711	21	33427015	A	G	yes	445594	VCV000445594.14	NM_005534.4(IFNGR2):c.544A>G (p.Lys182Glu)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/01	Immunodeficiency 28; not provided	missense variant	-
+rs2507733	21	37072563	T	C	no	-	-	-	-	-	-	-	-	VCV001580419 NM_153682.3(PIGP):c.-22-26=: Benign
+rs115908228	21	38818481	G	A	no	-	-	-	-	-	-	-	-	-
+rs116698978	21	38818580	G	A	no	-	-	-	-	-	-	-	-	-
+rs457705	21	38819507	T	G	no	-	-	-	-	-	-	-	-	-
+rs461155	21	38819714	A	G	no	-	-	-	-	-	-	-	-	-
+rs115397760	21	43968034	C	T	no	-	-	-	-	-	-	-	-	-
+rs79309256	21	43969150	C	G	no	-	-	-	-	-	-	-	-	-
+rs75532875	21	43969159	C	T	no	-	-	-	-	-	-	-	-	-
+rs7289170	22	17181903	A	G	yes	402527	VCV000402527.23	NM_001282225.2(ADA2):c.1359T>C (p.Tyr453=)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/02/04	Deficiency of adenosine deaminase 2; not specified; not provided	synonymous variant	VCV003603868 NM_001282225.2(ADA2):c.1358_1359delinsGC (p.Tyr453Cys): Likely pathogenic
+rs61735928	22	19383643	G	A	yes	777663	VCV000777663.6	NM_003325.4(HIRA):c.1392C>T (p.Leu464=)	Benign	criteria provided, single submitter	2019/12/31	not provided	synonymous variant	-
+rs115157927	22	19385577	A	T	yes	3525634	VCV003525634.1	NM_003325.4(HIRA):c.1273T>A (p.Ser425Thr)	Uncertain significance	criteria provided, single submitter	2024/10/08	not specified	missense variant	-
+rs9618556	22	19396832	C	T	yes	710905	VCV000710905.30	NM_003325.4(HIRA):c.609G>A (p.Thr203=)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2024/11/21	not specified; not provided	synonymous variant	-
+rs116458396	22	19396916	G	A	no	-	-	-	-	-	-	-	-	-
+rs114971216	22	19972976	C	T	yes	709199	VCV000709199.4	NM_001670.3(ARVCF):c.2499G>A (p.Lys833=)	Benign	criteria provided, multiple submitters, no conflicts	2018/04/04	not provided	synonymous variant	-
+rs115736959	22	19973143	G	A	yes	789863	VCV000789863.3	NM_001670.3(ARVCF):c.2414C>T (p.Ala805Val)	Benign	criteria provided, single submitter	2018/07/04	not provided	missense variant	-
+rs80068543	22	19981520	C	T	yes	1288326	VCV001288326.2	NM_001670.3(ARVCF):c.587G>A (p.Arg196Gln)	Benign	criteria provided, multiple submitters, no conflicts	2021/05/05	not provided	missense variant	-
+rs114537607	22	21643905	C	T	no	-	-	-	-	-	-	-	-	-
+rs115706909	22	21643926	C	T	no	-	-	-	-	-	-	-	-	-
+rs116048331	22	21970233	C	T	yes	3043387	VCV003043387.2	NM_001282112.2(TOP3B):c.558G>A (p.Leu186=)	Likely benign	no assertion criteria provided	2019/07/01	TOP3B-related disorder	synonymous variant, non-coding transcript variant	-
+rs114023206	22	23152491	C	T	no	-	-	-	-	-	-	-	-	-
+rs5759612	22	23160983	A	G	no	-	-	-	-	-	-	-	-	-
+rs9680526	22	24183535	T	A	no	-	-	-	-	-	-	-	-	-
+rs116796967	22	30263994	C	T	no	-	-	-	-	-	-	-	-	-
+rs35764129	22	30460134	G	A	no	-	-	-	-	-	-	-	-	-
+rs2269961	22	30464843	C	T	no	-	-	-	-	-	-	-	-	-
+rs116469787	22	30466386	G	A	no	-	-	-	-	-	-	-	-	-
+rs116155456	22	30470519	G	A	no	-	-	-	-	-	-	-	-	-
+rs112976399	22	30555239	C	T	no	-	-	-	-	-	-	-	-	-
+rs114015937	22	31091807	G	A	no	-	-	-	-	-	-	-	-	-
+rs2228619	22	31267856	C	G	no	-	-	-	-	-	-	-	-	-
+rs113253213	22	33304315	G	A	yes	95167	VCV000095167.59	NM_133642.5(LARGE1):c.1644C>T (p.Asn548=)	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	2026/01/22	not specified; Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6; not provided	synonymous variant	-
+rs8142483	22	33604498	C	T	yes	158808	VCV000158808.22	NM_133642.5(LARGE1):c.552G>A (p.Thr184=)	Benign	criteria provided, multiple submitters, no conflicts	2026/01/28	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; not provided; Muscular dystrophy-dystroglycanopathy type B6; not specified	synonymous variant	-
+rs114289284	22	38699831	G	A	no	-	-	-	-	-	-	-	-	-
+rs114180421	22	38699942	A	G	no	-	-	-	-	-	-	-	-	-
+rs5750728	22	39044144	C	T	no	-	-	-	-	-	-	-	-	-
+rs114704208	22	39044171	A	T	no	-	-	-	-	-	-	-	-	-
+rs55634318	22	39231625	G	C	yes	1188397	VCV001188397.19	NM_002608.4(PDGFB):c.453C>G (p.Val151=)	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	2026/01/29	not provided; not specified	synonymous variant	-
+rs114948690	22	39743860	A	G	yes	4249268	VCV004249268.1	NM_152512.4(ENTHD1):c.1643T>C (p.Ile548Thr)	Uncertain significance	criteria provided, single submitter	2025/08/11	not specified	missense variant	-
+rs114600441	22	39744186	T	C	no	-	-	-	-	-	-	-	-	-
+rs115673469	22	39744223	A	G	yes	3845024	VCV003845024.1	NM_152512.4(ENTHD1):c.1280T>C (p.Leu427Ser)	Likely benign	criteria provided, single submitter	2025/01/27	not specified	missense variant	-
+rs114100360	22	39835936	C	A	no	-	-	-	-	-	-	-	-	-
+rs114714334	22	39861847	C	T	no	-	-	-	-	-	-	-	-	-
+rs115365592	22	40019319	C	T	no	-	-	-	-	-	-	-	-	-
+rs8135982	22	44916465	C	T	no	-	-	-	-	-	-	-	-	-
+rs114043304	22	44920488	A	G	no	-	-	-	-	-	-	-	-	-
+rs35195493	22	50177576	C	G	no	-	-	-	-	-	-	-	-	-

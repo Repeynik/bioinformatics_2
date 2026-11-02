@@ -1,0 +1,17 @@
+gnomAD annotation settings
+==========================
+date: 2026-11-02
+source: gnomAD GraphQL API (https://gnomad.broadinstitute.org/api)
+dataset: gnomad_r4 (gnomAD v4, GRCh38, exomes + genomes)
+input variants: 50
+
+query:
+  variant(variantId: '<chrom>-<pos>-<ref>-<alt>', dataset: gnomad_r4)
+  fields: exome / genome / joint ac, an, homozygote_count, filters,
+          joint populations
+
+derived values:
+  *_af = ac / an
+  joint_af = allele frequency over exomes + genomes (used in the final table)
+  grpmax_af = max af over afr, amr, eas, nfe, sas (gnomAD grpmax groups)
+  filters: PASS if the variant passed all gnomAD filters

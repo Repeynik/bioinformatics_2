@@ -1,0 +1,34 @@
+=== vcf header ===
+  ##fileformat=VCFv4.2
+  ##reference=GRCh38
+  ##source=Ensembl_VEP_example_homo_sapiens_GRCh38.vcf_release_116
+
+=== records ===
+  total records:  50
+  snv:            50
+  multiallelic:   0
+  with rsID:      50
+  QUAL = '.':     50
+  FILTER = '.':   50
+  INFO = '.':     50
+
+=== chromosomes ===
+  chr21: 12
+  chr22: 38
+
+=== transitions / transversions ===
+  transitions:    40
+  transversions:  10
+  ts/tv:          4.00
+
+=== substitutions ===
+  A>G (ts): 8
+  A>T (tv): 2
+  C>A (tv): 2
+  C>G (tv): 3
+  C>T (ts): 17
+  G>A (ts): 13
+  G>C (tv): 1
+  T>A (tv): 1
+  T>C (ts): 2
+  T>G (tv): 1
